@@ -23,8 +23,9 @@ refactored to ensure atomic database operations and production safety.
 ## Get requirements installed:
 ```bash
 pip install -r requirements.txt
-
+```
 ## How to Run Part 1
 ```bash
 pip install flask flask-sqlalchemy
 python product_api_fix.py
+```
